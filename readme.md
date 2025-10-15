@@ -23,3 +23,6 @@ Quickstart
 Notes
 - Utilities for image download and SMAPE are in src/utils.py
 - Do not use external price lookups; use only provided datasets.
+
+
+![alt text](https://github.com/gaxxrav/amazon/blob/master/diagram.png)
